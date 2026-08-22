@@ -66,3 +66,6 @@ Feel free to fork this repository and contribute to the project by submitting a 
 
 ## License
 This project is licensed under the MIT License.
+
+## Author
+Computer Society Of India
